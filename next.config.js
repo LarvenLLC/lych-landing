@@ -2,7 +2,7 @@ module.exports = {
   async rewrites() {
     return [
       {
-        source: '/',
+        source: '/canva',
         destination: 'https://lych.my.canva.site',
       },
     ]
